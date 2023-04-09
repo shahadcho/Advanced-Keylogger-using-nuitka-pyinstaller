@@ -1,0 +1,10 @@
+Public IP Address: 117.232.108.133Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: CHO
+Private IP Address: 192.168.56.1
+Public IP Address: 115.241.227.147Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: CHO
+Private IP Address: 192.168.56.1

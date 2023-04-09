@@ -1,0 +1,5 @@
+Public IP Address: 42.106.190.103Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+System: Windows 10.0.22000
+Machine: AMD64
+Hostname: DESKTOP-2ELIDT9
+Private IP Address: 192.168.209.15

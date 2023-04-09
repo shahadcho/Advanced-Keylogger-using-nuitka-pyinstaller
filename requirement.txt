@@ -1,0 +1,8 @@
+secure-smtplib
+cryptography
+pynput
+getpass4
+sounddevice
+requests
+pillow
+scipy

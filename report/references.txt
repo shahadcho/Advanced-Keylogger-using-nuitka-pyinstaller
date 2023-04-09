@@ -1,0 +1,82 @@
+[1] Martin Vuagnoux, S. P. (2009). Compromising
+electromagnetic emanations of wired and wireless
+keyboards. USENIX security symposium, 1–16.
+[2] S. P. Goring, J. R. (2007). Anti-keylogging measures for
+secure internet login: an example of the law of
+unintended consequences. Computers & Security, 1-9.
+[3] Strahija, N. (2003, February 8). Student charged after
+college computers hacked. Retrieved from Xtrix
+security: http://www.xatrix.org/article2641.html
+[4] Thorsten Holz, M. E. (2009). Learning More about the
+Underground Economy: A Case-Study of Keyloggers
+and Dropzones. Thorsten Holz, Markus Engelberth,
+Felix C. Freiling, 1-18.
+
+
+[1] S. P. Goring, J. R. Rabaiotti and A. J. Jones, “Anti-keylogging
+measures for secure internet login: an example of the law of
+unintended consequences”, Computers & Security, Page 1-9, Feb
+2007
+[2] M. Mannan and P. C. van Oorschot, “Leveraging personal devices
+for stronger password authentication from untrusted computers”,
+Extended version of paper appeared in the proceedings of Financial
+Cryptography and Data security 2007, Version 6, Page 1-29, Oct
+2008
+[3] A. A. Nair and S. T. D., “An enhanced authentication mechanism
+against untrusted access and phishing attacks using USSD”,
+International Journal of Advanced Research in Computer Science
+and Software Engineering, Vol. 3, Issue 8, Page 1188-1193, Aug
+2013
+[4] M. Trojahn and F. Ortmeier, “Biometric authentication through a
+virtual keyboard for smartphones”, International Journal of
+Computer Science & Information Technology, Vol. 4, No. 5, Page
+1-12, Oct 2012
+[5] D. Bhave, P. Bhavsar, S. Chavan and K. Gore, “Keyloggingresistant visual authentication protocol”, International Journal of
+Advanced Research in Computer and communication Engineering,
+Vol 5. Issue 2, Page 520-524, Feb 2016
+[6] Keylogger protection-System security research, GData,
+Whitepaper, Page 1-8, Mar 2014
+[7] S. Bharadwaj, R. Prathyusha and Rajeesh Kumar, “Attack resistant
+visually authenticated and secured system”, International Journal of
+Research and Engineering, Vol. 2, Issue 2, Page 16-19
+[8] D. Nyang, A. Mohaisen and J. Kang, “Keylogging-resistant visual
+authentication protocols”, IEEE Transactions on Mobile
+Computing, Vol. 13, No. 11, Page 2566-2579, Nov 2014
+[9] P. K. Veni and B. Naresh, “A novel visual authentication protocols
+implementation based on keylogging-resistant”, International
+Journal of Scientific Engineering and Technology Research, Vol. 4,
+Issue 28, Page 5470-5477, Jul 2015
+[10] R. Sangeetha, N. H. Vinodha and A. V. Kalpana, “QR code based
+encrypted matrix representation for eradication hardware and
+software keylogging”, International Journal of Engineering
+Sciences and Research Technology, Page 642-647, Apr 2015
+[11] R. Saraswathi, G. Shanmathi, P. Preethi and U. Arul, “Secure
+internet banking with visual authentication protocol”, International
+Journal of Scientific Research in Science, Engineering and
+Technology, Vol. 1, Issue 1, Page 351-353, Jan-Feb 2015
+[12] H. Pathak, A. Pawar and B. Patil, “A survey on keylogger-A
+malicious attack”, International Journal of Advanced Research in
+Computer Engineering and Technology, Vol. 4, Issue 4, Page 1465-
+1469, Apr 2015
+[13] T. Muller, H. Spath, R. Mackl and F. C. Freiling, “STARKTamperproof authentication to resist keylogging”, Chapter:
+Financial Cryptography and Data Security, Volume 7859 of the
+series lecture notes in Computer Science, Page 295-312
+[14] Y. Cheng and X. Ding, “Virtualization Based Password Protection
+against Malware in Untrusted Operating Systems”, Chapter: Trust
+and trustworthy computing, Volume 7344 of the series lecture notes
+in computer science, Page 201-218
+[15] C. O. Chen, C. Chen, C. Kuo, Y. Lai, J. M. McCune, A. Studer, A.
+Perrig, B. Yang and T. Wu, “GAnGS: Gather, Authenticate ’n
+Group Securely”, (http://www.iis.sinica.edu.tw/papers/byyang/
+6942-F.pdf)
+[16] M. Farb, Y. Lin, T. H. Kim, J. McCune and A. Perrig, “SafeSlinger:
+Easy-to-Use and Secure Public-Key Exchange”, Carnegie Mellon
+University, CMU-CyLab-11-021, Rev. 03 Oct 2013 
+
+
+
+1. Afolayan A. Obiniyi and Mohammed Aminu
+Umar,”Random Number Based Dynamic AntiScreenshot Virtual Keyboard”- IJES.
+2. Christoper Hadnagy Social Engineering: The Art
+of Human Hacking, Wiley Publishing, 2010.
+3. http://www.newsbytes.com/hacking.
